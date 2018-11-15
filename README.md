@@ -2,6 +2,7 @@
 
 
 ## Atelier React Native BrestJs
+https://github.com/BrestJS/atelierrn
 
 ### Prerequisites:
 - nodeJs
